@@ -1,0 +1,23 @@
+.calculator{
+  border: 1px solid black;  
+  width: 250px;
+  height: 500px;
+  border: radius 5px; 
+  margin:auto;
+  background-color: #9CAFAA;
+  
+}
+.outerbox{
+  background-color:#C6CF9B;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+
+  
+}
+.heading{
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 40px;
+  color:#222831;
+  font-size: 50px;
+}
